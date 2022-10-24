@@ -1,0 +1,26 @@
+* {
+    background-color: cadetblue;
+}
+
+
+p {
+    color: black;
+font-size: 22px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+
+form  {
+    text-align: center;
+
+    
+}
+
+
+
+.img {
+     text-align: center;
+    color: brown;
+}
